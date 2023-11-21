@@ -1,0 +1,23 @@
+{
+  "name": "parse-arrow-func",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/generator": "^7.23.4",
+    "@babel/parser": "^7.23.4",
+    "@babel/template": "^7.22.15",
+    "@babel/traverse": "^7.23.4",
+    "@babel/types": "^7.23.4",
+    "@types/node": "^20.9.3"
+  }
+}
